@@ -1,2 +1,6 @@
 # rollup-module-boilerplate
-NPM module boilerplate with rollup.js
+This is a boilerplate for moduling React Component with typescript.
+This provides the following features.
+- testing with jest, testing-library
+- visual-regression testing with Storybook
+- bundling with Rollup.js
